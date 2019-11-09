@@ -15,8 +15,8 @@ Evaluation Metrics : The evaluation metrics would be accuracy and f1-score of na
 
 The project is supported by Python 3, libraries and packages:
 
-    • *Pandas*
-    • *Seaborn*
-    • *Matplotlib*
-    • *Scikit learn* 
-    • *Numpy*
+    • Pandas
+    • Seaborn
+    • Matplotlib
+    • Scikit learn 
+    • Numpy
